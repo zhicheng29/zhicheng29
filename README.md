@@ -3,7 +3,7 @@
 </div>
   
 <div align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=zhicheng29&count_private=true&hide_border=true&show_icons=true&locale=en)
+  <img src="https://github-readme-stats.vercel.app/api?username=zhicheng29&count_private=true&hide_border=true&show_icons=true&locale=en" /><br>
 </div>
 
 <picture>
