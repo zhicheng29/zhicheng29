@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://github.com/zhicheng29/zhicheng29/blob/main/img/coding.gif?raw=true" /><br>
-</div>
   
 ![](https://github-readme-stats.vercel.app/api?username=zhicheng29&count_private=true&hide_border=true&show_icons=true&locale=en)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zhicheng29&count_private=true&hide_border=true)
