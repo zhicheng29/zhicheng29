@@ -1,11 +1,8 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/palp1tate/palp1tate/img/coding.gif" /><br>
+  <img src="https://github.com/zhicheng29/zhicheng29/blob/main/img/coding.gif?raw=true" /><br>
 </div>
   
-<div align="center">
-  <!-- visitor statistics logo 访客数统计徽标 -->
-  <img src="https://komarev.com/ghpvc/?username=palp1tate&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=zhicheng29&count_private=true&hide_border=true&show_icons=true&locale=en)
 
 <picture>
   <source
